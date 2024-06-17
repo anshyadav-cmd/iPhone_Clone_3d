@@ -1,8 +1,21 @@
-# React + Vite
+# React + Vite + Three.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> for build a 3D/webflow design of the iPhone.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Clone the Repo
+  ```bash
+  git clone git@github.com:anshyadav-cmd/iPhone_Clone_3d.git
+  ```
+- Install all dependencies
+  ```bash
+  npm install
+  ```
+- Start the development server
+  ```bash
+  npm run dev
+  ```
+- Open your browser and navigate to `http://localhost:3000`
+
+==Note that the web app is under construction, thus the project is not complete.==
