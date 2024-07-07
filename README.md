@@ -1,6 +1,9 @@
 # React + Vite + Three.js
+> (React three fiber)
 
-> for build a 3D/webflow design of the iPhone.
+# Project [@Live](https://iphone-clone-3d.pages.dev) 
+
+building a 3D/webflow design of the iPhone.
 
 ## Installation
 
