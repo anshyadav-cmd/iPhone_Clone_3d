@@ -2,6 +2,8 @@
 > (React three fiber)
 
 # Project [@Live](https://iphone-clone-3d.pages.dev) 
+==Note Use a compatible Browser that can run WebGL2 to open the project. Tested on **Safari** and **Chrome** it works fine but not on **Brave Browser**.== ✌🏻
+
 
 building a 3D/webflow design of the iPhone.
 
@@ -21,5 +23,5 @@ building a 3D/webflow design of the iPhone.
   ```
 - Open your browser and navigate to `http://localhost:5173`
 
-==Note Use a compatible Browser that can run WebGL2 to open the project. Tested on **Safari** and **Chrome** it works fine but not on **Brave Browser**. ✌🏻
+
 
