@@ -16,6 +16,7 @@
   ```bash
   npm run dev
   ```
-- Open your browser and navigate to `http://localhost:3000`
+- Open your browser and navigate to `http://localhost:5173`
 
-==Note that the web app is under construction, thus the project is not complete.==
+==Note Use a compatible Browser that can run WebGL2 to open the project. Tested on **Safari** and **Chrome** it works fine but not on **Brave Browser**. ✌🏻
+
